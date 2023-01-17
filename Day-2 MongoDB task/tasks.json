@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "63c62ed51a4d474279a50310"
+  },
+  "user_id": 1,
+  "task_name": "TV application design",
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "submission_date": {
+    "$date": {
+      "$numberLong": "1603238400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ed51a4d474279a50311"
+  },
+  "user_id": 2,
+  "task_name": "TV application design",
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "submission_date": {
+    "$date": {
+      "$numberLong": "1605398400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ed51a4d474279a50312"
+  },
+  "user_id": 3,
+  "task_name": "TV application design",
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "submission_date": {
+    "$date": {
+      "$numberLong": "1605398400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ed51a4d474279a50313"
+  },
+  "user_id": 4,
+  "task_name": "TV application design",
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "submission_date": {
+    "$date": {
+      "$numberLong": "1605398400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ed51a4d474279a50314"
+  },
+  "user_id": 5,
+  "task_name": "TV application design",
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  },
+  "submission_date": {
+    "$date": {
+      "$numberLong": "1605398400000"
+    }
+  }
+}]

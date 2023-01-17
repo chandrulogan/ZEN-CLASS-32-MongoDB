@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63c62ead1a4d474279a50303"
+  },
+  "userId": 1,
+  "problemsSolved": 200,
+  "rank": 40000,
+  "geekscoins": 4800
+},{
+  "_id": {
+    "$oid": "63c62ead1a4d474279a50304"
+  },
+  "userId": 2,
+  "problemsSolved": 300,
+  "rank": 20000,
+  "geekscoins": 7800
+},{
+  "_id": {
+    "$oid": "63c62ead1a4d474279a50305"
+  },
+  "userId": 3,
+  "problemsSolved": 250,
+  "rank": 30000,
+  "geekscoins": 6800
+},{
+  "_id": {
+    "$oid": "63c62ead1a4d474279a50306"
+  },
+  "userId": 4,
+  "problemsSolved": 100,
+  "rank": 50000,
+  "geekscoins": 2800
+}]

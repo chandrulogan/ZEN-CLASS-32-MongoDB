@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "63c62ec21a4d474279a5030b"
+  },
+  "topic_id": 1,
+  "topic_name": "Javascript-functions",
+  "tasks": [
+    "arrow-functions",
+    "inline-functions",
+    "IIFE"
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ec21a4d474279a5030c"
+  },
+  "topic_id": 2,
+  "topic_name": "Javascript-variables",
+  "tasks": [
+    "var",
+    "let"
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ec21a4d474279a5030d"
+  },
+  "topic_id": 3,
+  "topic_name": "Javascript-events",
+  "tasks": [
+    "event-bubbling",
+    "event-listeners"
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ec21a4d474279a5030e"
+  },
+  "topic_id": 4,
+  "topic_name": "mysql-crud",
+  "tasks": [
+    "create-table",
+    "update-table",
+    "insert"
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63c62ec21a4d474279a5030f"
+  },
+  "topic_id": 5,
+  "topic_name": "mongo",
+  "tasks": [
+    "find",
+    "aggregate"
+  ],
+  "date": {
+    "$date": {
+      "$numberLong": "1602720000000"
+    }
+  }
+}]

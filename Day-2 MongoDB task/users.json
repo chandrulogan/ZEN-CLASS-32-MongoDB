@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "63c62e9e1a4d474279a502ff"
+  },
+  "userId": 1,
+  "name": "Chandru",
+  "email": "chandru@gmail.com",
+  "mobile": "9789724829"
+},{
+  "_id": {
+    "$oid": "63c62e9e1a4d474279a50300"
+  },
+  "userId": 2,
+  "name": "Mohan",
+  "email": "mohan@gmail.com",
+  "mobile": "9533849377"
+},{
+  "_id": {
+    "$oid": "63c62e9e1a4d474279a50301"
+  },
+  "userId": 3,
+  "name": "Dinesh",
+  "email": "dinesh@gmail.com",
+  "mobile": "9578667987"
+},{
+  "_id": {
+    "$oid": "63c62e9e1a4d474279a50302"
+  },
+  "userId": 4,
+  "name": "Santhosh",
+  "email": "Santhosh@gmail.com",
+  "mobile": "9876543210"
+}]
